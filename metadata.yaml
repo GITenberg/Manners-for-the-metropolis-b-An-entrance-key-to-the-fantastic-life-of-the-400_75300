@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '50222'
     url: http://www.gutenberg.org/2009/agents/50222
     wikipedia: https://en.wikipedia.org/wiki/Louis_Fancher
+covers:
+- cover_type: archival
+  image_path: 75300-h/images/cover.jpg
 creator:
   author:
     agent_name: Crowninshield, Frank
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49010
     wikipedia: https://en.wikipedia.org/wiki/Frank_Crowninshield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75300#Manners-for-the-metropolis-b-An-entrance-key-to-the-fantastic-life-of-the-400
 gutenberg_issued: '2025-02-05'
 gutenberg_type: Text
 identifiers:
